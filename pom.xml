@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>http://18.218.190.90:8081/repository/kay-release//name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>http://18.218.190.90:8081/repository/kay-snapshot/ </name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
